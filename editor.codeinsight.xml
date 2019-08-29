@@ -1,9 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-    <EXCLUDED_PACKAGE NAME="com.sun.tools.javac.util.List" />
-    <EXCLUDED_PACKAGE NAME="java.awt.List" />
-    <EXCLUDED_PACKAGE NAME="javax.jdo.annotations.Transactional" />
-    <EXCLUDED_PACKAGE NAME="org.apache.poi.ss.formula.functions.T" />
-  </component>
-</application>
