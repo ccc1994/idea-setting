@@ -17,6 +17,7 @@
   <action id="ActivateReviewsToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>
+  <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
