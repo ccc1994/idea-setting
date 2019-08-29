@@ -1,0 +1,15 @@
+<application>
+  <component name="JavaRebelPlugin">
+    <option name="ideInstallationStorage">
+      <map>
+        <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
+        <entry key="com.zeroturnaround.jrebel.NoExternalAutoconvert" value="false" />
+        <entry key="com.zeroturnaround.jrebel.intellij.autocompile.feature-seen" value="true" />
+        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2019.1.5" />
+        <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2018.2.1" />
+        <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="2" />
+      </map>
+    </option>
+    <option name="javaRebelPath" value="$USER_HOME$/.jrebel/nightly_cache/201811280349/jrebel/jrebel.jar" />
+  </component>
+</application>

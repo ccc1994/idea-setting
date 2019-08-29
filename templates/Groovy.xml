@@ -1,0 +1,7 @@
+<templateSet group="Groovy">
+  <template name="acce" value="@SuppressWarnings(&quot;GroovyAccessibility&quot;)" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

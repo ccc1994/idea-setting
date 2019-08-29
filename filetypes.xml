@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;catalina.base_IS_UNDEFINED;node_modules;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="asdf" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
+      <mapping pattern="orderCount" type="PLAIN_TEXT" />
+      <mapping pattern="NOTICE" type="PLAIN_TEXT" />
+      <mapping ext="xm" type="PLAIN_TEXT" />
+      <mapping ext="lombok" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping pattern="TbjMapper.xml" type="XML" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,16 @@
+<templateSet group="html/xml">
+  <template name="result" value="&lt;result property=&quot;$prop$&quot; column=&quot;$column$&quot; jdbcType=&quot;$jdbcType$&quot;/&gt;" description="mybatis" toReformat="false" toShortenFQNames="true">
+    <variable name="prop" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="column" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="jdbcType" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="zy" value="&lt;![CDATA[$content$]]&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

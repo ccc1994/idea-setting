@@ -1,0 +1,11 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://code.alibabatech.com/schema/dubbo" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/790751f1_dubbo.xsd" />
+    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.1/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
+    <resource url="http://www.springframework.org/schema/aop" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/da084fef_spring-aop-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/beans" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/334543e7_spring-beans.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-3.0.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/a32f63cf_spring-beans-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/context" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/1db4f4cf_spring-context-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-3.0.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/5f59e9a1_spring-tool-3.0.xsd" />
+  </component>
+</application>
