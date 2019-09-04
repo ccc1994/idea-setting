@@ -81,8 +81,8 @@
   </template>
   <template name="unchecked" value="@SuppressWarnings(&quot;unchecked&quot;)" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_DECLARATION" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="GROOVY_STATEMENT" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
   <template name="pl" value="private List&lt;$TYPE$&gt; $VAR$;" description="" toReformat="false" toShortenFQNames="true">
