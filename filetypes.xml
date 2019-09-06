@@ -4,10 +4,11 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="orderCount" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
-      <mapping pattern="NOTICE" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
+      <mapping pattern="orderCount" type="PLAIN_TEXT" />
+      <mapping pattern="NOTICE" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="xm" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
