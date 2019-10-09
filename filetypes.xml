@@ -9,8 +9,10 @@
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="orderCount" type="PLAIN_TEXT" />
       <mapping pattern="NOTICE" type="PLAIN_TEXT" />
+      <mapping pattern="Filter" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="xm" type="PLAIN_TEXT" />
+      <mapping ext="filter" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping pattern="TbjMapper.xml" type="XML" />
     </extensionMap>
