@@ -158,7 +158,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="debug" value="log.debug($tmpl$);" toReformat="false" toShortenFQNames="true">
+  <template name="debug" value="log.debug($tmpl$);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="tmpl" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
