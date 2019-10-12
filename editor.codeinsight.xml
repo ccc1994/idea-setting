@@ -1,6 +1,8 @@
 <application>
   <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="com.sun.javafx.collections.MappingChange.Map" />
     <EXCLUDED_PACKAGE NAME="com.sun.tools.javac.util.List" />
+    <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.xsom.impl.scd.Iterators.Map" />
     <EXCLUDED_PACKAGE NAME="java.awt.List" />
     <EXCLUDED_PACKAGE NAME="javax.swing.text.html.Map" />
   </component>
