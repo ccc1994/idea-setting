@@ -1,6 +1,5 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="http://code.alibabatech.com/schema/dubbo" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/790751f1_dubbo.xsd" />
     <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.1/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
     <resource url="http://www.springframework.org/schema/aop" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/da084fef_spring-aop-3.0.xsd" />
     <resource url="http://www.springframework.org/schema/beans" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/334543e7_spring-beans.xsd" />
