@@ -226,6 +226,10 @@
           <option name="url" value="git@git.souche-inc.com:zhangyunzheng/open-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.souche-inc.com:funds/funds-buyback.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
