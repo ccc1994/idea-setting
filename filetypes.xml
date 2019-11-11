@@ -8,6 +8,7 @@
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="orderCount" type="PLAIN_TEXT" />
+      <mapping pattern="add_uk_product_code_payment_type_trade_product_code" type="PLAIN_TEXT" />
       <mapping pattern="NOTICE" type="PLAIN_TEXT" />
       <mapping pattern="Filter" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
