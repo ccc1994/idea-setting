@@ -57,5 +57,11 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="cap" uuid="55fa3923-c755-4619-87e9-024f124c8197">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://dev.database003.scsite.net:3306/cap?allowMultiQueries=true&amp;useUnicode=true&amp;amp&amp;characterEncoding=UTF-8</jdbc-url>
+    </data-source>
   </component>
 </application>
