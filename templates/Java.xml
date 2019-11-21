@@ -164,7 +164,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="warn" value="log.warn($content$);" toReformat="false" toShortenFQNames="true">
+  <template name="warn" value="log.warn($content$);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
