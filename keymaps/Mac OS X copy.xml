@@ -26,6 +26,9 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
+  <action id="CompareClipboardWithSelection">
+    <keyboard-shortcut first-keystroke="ctrl meta alt j" />
+  </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="ctrl meta alt up" />
   </action>
