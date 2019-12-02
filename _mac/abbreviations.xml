@@ -1,9 +1,7 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="NewProjectFromVCS">
-        <abbreviation name="opc" />
-      </action>
+      <action id="NewProjectFromVCS" />
     </abbreviations>
   </component>
 </application>
