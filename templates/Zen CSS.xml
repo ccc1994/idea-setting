@@ -383,7 +383,5 @@
   <template name="orp" value="orphans:$END$;" description="orphans:...;" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
-  <template name="wid" value="widows:$END$;" description="widows:...;" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="wid" value="widows:$END$;" description="widows:...;" toReformat="true" toShortenFQNames="true" />
 </templateSet>
