@@ -35,6 +35,7 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="ctrl meta alt down" />
   </action>
+  <action id="EditorMatchBrace" />
   <action id="FileChooser.GotoModule" />
   <action id="NewProjectFromVCS">
     <keyboard-shortcut first-keystroke="ctrl meta alt p" />
