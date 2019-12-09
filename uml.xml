@@ -9,7 +9,7 @@
         <entry id="DIFF" categories="Details" />
         <entry id="EntityBeans" categories="Properties;Embeddables;Superclasses" />
         <entry id="Flash" categories="One To One;One To Many;Usages;Self-links;Create" />
-        <entry id="JAVA" categories="Fields;Constructors;Methods;Properties;Inner Classes;Show Cyclic" />
+        <entry id="JAVA" categories="Fields;Methods;Show Cyclic" />
         <entry id="Persistence" categories="Properties;Embeddables;Superclasses" />
         <entry id="QUERY_PLAN" categories="Attributes" />
         <entry id="SPRING" categories="Local context;Properties" />
