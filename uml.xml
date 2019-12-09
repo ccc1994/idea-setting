@@ -1,5 +1,6 @@
 <application>
   <component name="UmlConfiguration">
+    <option name="layout" value="TREE" />
     <option name="categories">
       <map>
         <entry id="BPMN_2_0" categories="Details" />
@@ -8,8 +9,9 @@
         <entry id="DIFF" categories="Details" />
         <entry id="EntityBeans" categories="Properties;Embeddables;Superclasses" />
         <entry id="Flash" categories="One To One;One To Many;Usages;Self-links;Create" />
-        <entry id="JAVA" categories="Show One To One;Show One To Many;Show Usages;Others" />
+        <entry id="JAVA" categories="Fields;Constructors;Methods;Properties;Inner Classes;Show Cyclic" />
         <entry id="Persistence" categories="Properties;Embeddables;Superclasses" />
+        <entry id="QUERY_PLAN" categories="Attributes" />
         <entry id="SPRING" categories="Local context;Properties" />
         <entry id="SpringIntegration" categories="Show Labels" />
         <entry id="SpringLocalModels" categories="Show filesets as groups" />
