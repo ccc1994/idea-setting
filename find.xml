@@ -23,5 +23,6 @@
     <mask>*.properties</mask>
     <mask>*.pom.xml</mask>
     <mask>pom.xml</mask>
+    <mask>*Facade.java</mask>
   </component>
 </application>
