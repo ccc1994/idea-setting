@@ -310,6 +310,10 @@
           <option name="url" value="git@git.souche-inc.com:finance-loan/finance-loan-fund.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.souche-inc.com:finance-platform/finance-car-sale.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
