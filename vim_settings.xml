@@ -11,7 +11,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed 2</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -29,10 +29,10 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -47,7 +47,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
